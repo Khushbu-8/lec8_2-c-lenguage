@@ -4,20 +4,13 @@
 
 /*
 
-Q.3 Write a Program to find square of each element from the given array.
-Input:
-Enter array size: 5
+Q.2 Write a Program to find leap years between two given numbers and store them in an array. And then print that array.
+Enter the first number: 2020
 
-Enter array elements:
-a[0] = 7
-a[1] = 4
-a[2] = 9
-a[3] = 5
-a[4] = 2
+Enter the second number: 2040
 
 Output:
-The squares are: 49, 16, 81, 25, 4
-
+The array is: 2020, 2024, 2028, 2032, 2036, 2040
 
 */	
 	
